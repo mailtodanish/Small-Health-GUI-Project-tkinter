@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[248]:
-
-
 from tkinter import *
 
 
